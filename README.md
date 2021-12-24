@@ -29,3 +29,13 @@ URL do curso -> [HTML5 e CSS3 parte 1: A Primeira Página da Web](https://www.al
     * Utilizando as *tags* `<h1>` e `<p>`, respectivamente.
 * Como dar destaque para algumas informações do texto, deixando-as em **negrito**, utilizando a *tag* `<strong>`.
 * Como dar ênfase para algumas informações do texto, deixando-as em *itálico*, utilizando a *tag* `<em>`.
+
+## 02 - Separando o Conteúdo e Informações
+* A definir a estrutura básica do HTML.
+    * Com a *tag* `DOCTYPE`, definimos qual versão do HTML estamos utilizando.
+    * A *tag* **`<html>`**, que marca o conteúdo a ser renderizado no navegador.
+        * Dentro desta *tag*, podemos definir a linguagem da página, através da propriedade **lang**.
+* Como passar as informações do encoding da nossa página para o navegador, através da *tag* **`<meta>`** e da propriedade charset.
+* Como definir o título de uma página, através da *tag* **`<title>`**.
+* Como separar as informações que estão sendo passadas para o navegador, utilizando a *tag* **`<head>`**.
+* Como separar o conteúdo da página, utilizando a *tag* **`<body>`**.
