@@ -1,0 +1,25 @@
+body {
+    background: #ccc;
+}
+
+p {
+    text-align: center;
+}
+/*
+    Hexadecimal: 0123456789abcdef
+
+    RGB = Red Green Blue
+
+    #_ _ _ _ _ _
+
+    0 = Ausência
+
+    F = Máximo
+
+    #000000
+
+    #FFFFFF
+*/
+em strong {
+    color: red;
+}

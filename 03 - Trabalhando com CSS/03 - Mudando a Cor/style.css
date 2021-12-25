@@ -1,0 +1,12 @@
+body {
+    background: #ccc;
+}
+
+p {
+    text-align: center;
+}
+
+/* Para selecionar um elemento que está dentro do outro, coloca-se " " */
+em strong {
+    color: red;
+}
