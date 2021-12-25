@@ -22,6 +22,7 @@ URL do curso -> [HTML5 e CSS3 parte 1: A Primeira Página da Web](https://www.al
     * 4º: Apertar ***ENTER***;
     * 5º: Digitar a *tag* que será utilizada para envolver o texto;
     * 6º: Apertar ***ENTER***;
+* **`F12`** no navegador para abrir o **Development Tools**.
 
 ## 01 - Marcação do Primeiro Texto
 * Uma introdução ao HTML e às suas ***tags***.
@@ -42,13 +43,13 @@ URL do curso -> [HTML5 e CSS3 parte 1: A Primeira Página da Web](https://www.al
 
 ## 03 - Trabalhando com CSS
 * A mexer na apresentação dos textos.
-    * No alinhamento deles (text-align).
-    * No tamanho da fonte (font-size).
-    * Na cor de fundo (background).
-    * Na cor do texto (color).
-* CSS inline.
-    * Na linha onde temos a nossa tag, adicionamos a propriedade do CSS.
-* A tag <style>.
+    * No alinhamento deles (`text-align`).
+    * No tamanho da fonte (`font-size`).
+    * Na cor de fundo (`background`).
+    * Na cor do texto (`color`).
+* CSS *inline*.
+    * Na linha onde temos a nossa *tag*, adicionamos a propriedade do CSS.
+* A tag **`<style>`**.
     * Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML.
 * A apresentação do CSS com um arquivo externo.
 * Como funciona o estilo em cascata do CSS.
@@ -57,3 +58,14 @@ URL do curso -> [HTML5 e CSS3 parte 1: A Primeira Página da Web](https://www.al
     * Através do nome da cor.
     * Através do seu hexadecimal.
     * Através do seu RGB.
+
+## 04 - Estilizando Imagens
+* Como reestruturar o nosso código, removendo os CSS *inline* e colocando-os no arquivo CSS externo.
+* Como criar um identificador para marcar especificamente um elemento.
+    * Como fazer referência a esse identificador no CSS.
+* Como adicionar uma imagem à nossa página.
+* Como ajustar a altura do elemento, através da propriedade `height`.
+* Como ajustar a largura do elemento, através da propriedade `width`.
+* Como ajustar o espaçamento interno do elemento, através da propriedade `padding`.
+* Como ajustar o espaçamento externo do elemento, através da propriedade `margin`.
+* Como se comporta um time de front-end hoje em dia.
