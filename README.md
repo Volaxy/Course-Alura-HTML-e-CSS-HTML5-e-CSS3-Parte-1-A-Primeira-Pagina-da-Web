@@ -78,3 +78,9 @@ URL do curso -> [HTML5 e CSS3 parte 1: A Primeira Página da Web](https://www.al
 * Como referenciar uma classe no CSS.
 * Divisões de conteúdo, utilizando a *tag* <div>.
 * Os comportamentos ***inline*** e ***block***.
+
+## 06 - Finalizando a Página
+* O conceito de cabeçalho da página e como criá-lo.
+* Que o cabeçalho da página deve ter mais destaque.
+* Que não é recomendado criar estilos usando tags.
+    * O ideal é usarmos classes para tudo.
