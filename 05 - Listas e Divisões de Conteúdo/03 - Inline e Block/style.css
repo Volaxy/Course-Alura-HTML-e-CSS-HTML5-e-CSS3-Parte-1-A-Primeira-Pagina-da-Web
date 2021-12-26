@@ -1,0 +1,51 @@
+body {
+}
+
+.principal {
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+#banner {
+	width: 100%;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+/*
+	A propriedade "display" define como será definido a largura do elemento e as propriedades de espaçamento.
+	O "vertical-align" define em que parte da linha vertical o conteúdo irá ficar.
+*/
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios {
+	background: white;
+	padding: 20px;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
